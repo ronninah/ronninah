@@ -7,7 +7,7 @@ I'm an Environmental and Resource Management graduate with expertise in machine 
 - **Interests:** Machine Learning, Environmental Data Analysis, Sustainability
 
 ### 📊 Projects
-- **[Master Thesis: Crop Yield Analysis](https://github.com/ronninah/crop-yield-analysis)**: Analyzed global-scale crop yield variations using machine learning techniques.
+- **[Master Thesis: Crop Yield Analysis](https://github.com/ronninah/Comparison-of-IML-methods)**: Analyzed global-scale crop yield variations using machine learning techniques.
 - **[Agricultural Data Analysis](https://github.com/ronninah/agriculture-data-analysis)**: Determined the best ML algorithm for agricultural data prediction.
 
 ### 📫 Let's Connect!
