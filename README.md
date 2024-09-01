@@ -10,7 +10,8 @@ I'm an Environmental and Resource Management graduate with expertise in machine 
 - **[Master Thesis: Crop Yield Analysis](https://github.com/ronninah/crop-yield-analysis)**: Analyzed global-scale crop yield variations using machine learning techniques.
 - **[Agricultural Data Analysis](https://github.com/ronninah/agriculture-data-analysis)**: Determined the best ML algorithm for agricultural data prediction.
 
-
+### 📫 Let's Connect!
+- [LinkedIn](https://www.linkedin.com/in/nahid-hasan-ronnie-73744488)
 <!--
 **ronninah/ronninah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
