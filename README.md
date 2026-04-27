@@ -1,4 +1,4 @@
-# Hi there, I'm Nahid Hasan Ronnie 👋
+# Hi there, I'm Ronnie 👋
 I'm an Environmental and Resource Management graduate with expertise in machine learning, data analysis, and sustainability. I love leveraging data to solve environmental challenges and am always looking to collaborate on meaningful projects.
 
 ### 🛠️ Tech Stack
