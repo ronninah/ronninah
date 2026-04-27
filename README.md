@@ -2,9 +2,9 @@
 I'm an Environmental and Resource Management graduate with expertise in machine learning, data analysis, and sustainability. I love leveraging data to solve environmental challenges and am always looking to collaborate on meaningful projects.
 
 ### 🛠️ Tech Stack
-- **Languages:** Python, R, SQL
-- **Tools:** ArcGIS, RETScreen, HEC-RAS, Slack, Asana, Microsoft Office, Canva, LaTeX
-- **Interests:** Machine Learning, Environmental Data Analysis, Sustainability
+- **Languages:** Python, R, GAMS, SQL
+- **Tools:** Virtual Studio Code, GAMS-Studio, R-Studio, ArcGIS, RETScreen, HEC-RAS, Slack, Asana, Microsoft Office, Canva, LaTeX
+- **Interests:** Bio-economic Modeling, Machine Learning, Environmental Data Analysis, Sustainability
 
 ### 📊 Projects
 - **[Master Thesis: Crop Yield Analysis](https://github.com/ronninah/Comparison-of-IML-methods)**: Analyzed global-scale crop yield variations using machine learning techniques.
